@@ -345,7 +345,6 @@ def main():
     st.markdown('<div class="subtitle">Uses AI to reasearch real estate and give you insights</div>', unsafe_allow_html=True)
     
     # Input section
-    st.markdown('<div class="card">', unsafe_allow_html=True)
     col1, col2 = st.columns(2)
     
     with col1:
