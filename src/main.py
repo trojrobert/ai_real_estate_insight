@@ -342,7 +342,7 @@ def generate_insights(price_data, properties, city_name):
 def main():
     # Header
     st.markdown('<div class="title">Real Estate Insight</div>', unsafe_allow_html=True)
-    st.markdown('<div class="subtitle">AI Real Estate Researchere</div>', unsafe_allow_html=True)
+    st.markdown('<div class="subtitle">Uses AI to reasearch real estate and give you insights</div>', unsafe_allow_html=True)
     
     # Input section
     st.markdown('<div class="card">', unsafe_allow_html=True)
